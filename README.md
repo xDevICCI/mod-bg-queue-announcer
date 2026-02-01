@@ -1,4 +1,5 @@
 # mod-bg-queue-announcer
+<img width="794" height="950" alt="Captura de pantalla 2026-02-01 191541" src="https://github.com/user-attachments/assets/0eca8736-6fd8-4ee0-86d1-81cf01a80ab4" />
 
 ## Description
 
